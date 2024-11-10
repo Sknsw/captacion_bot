@@ -1,0 +1,7 @@
+selenium
+pandas
+spacy
+reportlab
+pdfkit
+jinja2
+python-dotenv
